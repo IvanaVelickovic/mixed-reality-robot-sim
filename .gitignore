@@ -106,3 +106,6 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 /Assets/Config/
+robot-ray-interaction_BackUpThisFolder_ButDontShipItWithYourGame
+.vscode/
+robot-ray-interaction_BurstDebugInformation_DoNotShip
